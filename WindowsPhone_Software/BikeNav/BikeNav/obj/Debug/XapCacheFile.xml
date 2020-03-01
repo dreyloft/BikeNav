@@ -1,0 +1,28 @@
+﻿<xapCache source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Bin\Debug\BikeNav_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="02.11.2016 09:51:32">
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\obj\Debug\BikeNav.dll" archivePath="BikeNav.dll" lastWriteTime="02.11.2016 09:51:31" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\cancel.png" archivePath="Assets\AppBar\cancel.png" lastWriteTime="11.01.2013 19:57:58" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\check.png" archivePath="Assets\AppBar\check.png" lastWriteTime="11.01.2013 19:57:58" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\delete.png" archivePath="Assets\AppBar\delete.png" lastWriteTime="11.01.2013 19:57:58" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\down.png" archivePath="Assets\AppBar\down.png" lastWriteTime="23.10.2016 01:49:06" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\edit.png" archivePath="Assets\AppBar\edit.png" lastWriteTime="11.01.2013 19:57:58" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\save.png" archivePath="Assets\AppBar\save.png" lastWriteTime="11.01.2013 19:57:58" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\AppBar\up.png" archivePath="Assets\AppBar\up.png" lastWriteTime="23.10.2016 01:48:43" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\Icon\meelogic.png" archivePath="Assets\Icon\meelogic.png" lastWriteTime="01.11.2016 19:16:17" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\Icon\squirrel-entertainment.png" archivePath="Assets\Icon\squirrel-entertainment.png" lastWriteTime="01.11.2016 19:16:30" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="27.10.2016 09:44:51" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="27.10.2016 09:44:51" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="27.10.2016 09:44:51" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="27.10.2016 09:44:51" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="27.10.2016 09:44:51" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="27.10.2016 09:44:49" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12.08.2016 01:40:50" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="09.08.2016 21:07:46" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="15.08.2013 13:04:48" />
+  <file source="C:\Users\meed_rots\Documents\Visual Studio 2015\Projects\BikeNav\BikeNav\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.08.2016 02:33:40" />
+</xapCache>

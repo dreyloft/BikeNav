@@ -1,0 +1,55 @@
+<html>
+	<head>
+		<title>BikeNav</title>
+		<meta charset="utf-8" />
+		
+		<link href="css/style.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="js/calculation.js"></script>
+	</head>
+	<body>
+		<h1>BikeNav</h1>
+
+		<hr/>  
+		<br/>
+
+		<form>
+			<label class="formTitle">Bike Position:</label><br/>
+			<label>Latitude: .............</label><input type=text id="lat" size="30" value="0.00005"/><br/>
+			<label>Longitude: ............</label><input type=text id="lon" size="30" value="0.0"/><br/>
+			
+			<br/>
+			<hr/>
+			<br/>
+			
+			<label class="formTitle">Way Point:</label><br/>
+			<label>Latitude: .............</label><input type=text id="wplat" size="30" value="-0.00005"/><br/>
+			<label>Longitude: ............</label><input type=text id="wplon" size="30" value="0.0"/><br/>
+			
+			<br/>
+			<hr/>  
+			<br/>
+			
+			<input class="button" type="button" onclick="calculation();" value="Calculate"/><br/>
+			
+			<br/>
+			<hr/>
+			<br/>
+			
+			<label class="formTitle">Inputs:</label><br/>
+			<label>Current Latitude: .....</label><input type=text id="nLat" size="30" readonly/><br/>
+			<label>Current Longitude: ....</label><input type=text id="nLon" size="30" readonly/><br/>
+			<label>Previous Latitude: ....</label><input type=text id="oLat" size="30" readonly/><br/>
+			<label>Previous Longitude: ...</label><input type=text id="oLon" size="30" readonly/><br/>
+			
+			<br/>
+			<hr/>
+			<br/>
+			
+			<label class="formTitle">Results:</label><br/>
+			<label>Distance Bike/WP: .....</label><input type=text id="dist"  size="30" readonly/> m<br/>
+			<label>Angle Bike/WP: ........</label><input type=text id="angle" size="30" readonly/> &deg;<br/>
+			<label>Speed: ................</label><input type=text id="speed" size="30" readonly/> km/h<br/>
+			<label>LED Number: ...........</label><input type=text id="led"   size="30" readonly/>
+		</form>
+	</body>
+</html>
